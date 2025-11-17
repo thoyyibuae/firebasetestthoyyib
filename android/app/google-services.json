@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410521194057",
+    "project_id": "fir-mailpasswordauth",
+    "storage_bucket": "fir-mailpasswordauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410521194057:android:e57065b5d911a535a13998",
+        "android_client_info": {
+          "package_name": "com.firebasemailauth.example.firebasemailauthtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuWR2ofQT9F6XfIVj7eMQZ558d3B-jWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
